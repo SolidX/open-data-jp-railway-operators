@@ -561,7 +561,7 @@
   {
     "name": {
       "ja": "阿佐海岸鉄道",
-      "en": "ASA Seaside Railway Corporation"
+      "en": "Asa Coast Railway Company"
     },
     "railways": [
       {
@@ -666,7 +666,7 @@
   {
     "name": {
       "ja": "伊豆箱根鉄道",
-      "en": "{{lang|en|IZUHAKONE Railway Co., Ltd.}}"
+      "en": "IZUHAKONE RAILWAY CO.,LTD."
     },
     "railways": [
       {
@@ -707,6 +707,7 @@
       },
       {
         "ja": "花園線",
+        "en": "Hanazono Line",
         "prefectures": [
           "愛媛県"
         ]
@@ -740,12 +741,14 @@
       },
       {
         "ja": "大手町線",
+        "en": "Ōtemachi Line",
         "prefectures": [
           "愛媛県"
         ]
       },
       {
         "ja": "本町線",
+        "en": "Honmachi Line",
         "prefectures": [
           "愛媛県"
         ]
@@ -889,6 +892,7 @@
     "railways": [
       {
         "ja": "清輝橋線",
+        "en": "Okaden Seikibashi Line",
         "prefectures": [
           "岡山県"
         ]
@@ -1224,7 +1228,7 @@
   {
     "name": {
       "ja": "京福電気鉄道",
-      "en": "Keifuku Electric Railroad Co., Ltd."
+      "en": "Keifuku Electric Railroad Co.,Ltd."
     },
     "railways": [
       {
@@ -1265,7 +1269,7 @@
   {
     "name": {
       "ja": "四日市あすなろう鉄道",
-      "en": "Yokkaichi Asunarou Railway Co.,Ltd. "
+      "en": "Yokkaichi Asunarou Railway Co.,Ltd."
     },
     "railways": [
       {
@@ -1286,7 +1290,7 @@
   {
     "name": {
       "ja": "阪神電気鉄道",
-      "en": "Hanshin Electric Railway Co., Ltd."
+      "en": "Hanshin Electric Railway Co.,Ltd."
     },
     "railways": [
       {
@@ -1440,7 +1444,7 @@
   {
     "name": {
       "ja": "広島電鉄",
-      "en": "Hiroshima Electric Railway Co., Ltd."
+      "en": "Hiroshima Electric Railway Co.,Ltd."
     },
     "railways": [
       {
@@ -1496,7 +1500,7 @@
   {
     "name": {
       "ja": "弘南鉄道",
-      "en": "Kōnan Railway Company Ltd"
+      "en": "Konan Railway Corporation"
     },
     "railways": [
       {
@@ -1518,7 +1522,7 @@
   {
     "name": {
       "ja": "江ノ島電鉄",
-      "en": "Enoshima Electric Railway Company, Limited. "
+      "en": "Enoshima Electric Railway Co., Ltd."
     },
     "railways": [
       {
@@ -1660,6 +1664,7 @@
       },
       {
         "ja": "宝塚線",
+        "en": "Hankyu Takarazuka Main Line",
         "prefectures": [
           "大阪府",
           "兵庫県"
@@ -2073,7 +2078,7 @@
   {
     "name": {
       "ja": "秋田内陸縦貫鉄道",
-      "en": "Akita Nairiku Jūkan Railway Co.,ltd."
+      "en": "Akita Nairiku Jukan Railway Co., Ltd."
     },
     "railways": [
       {
@@ -2088,7 +2093,7 @@
   {
     "name": {
       "ja": "小田急電鉄",
-      "en": "Odakyu Electric Railway Co., Ltd. "
+      "en": "Odakyu Electric Railway Co., Ltd."
     },
     "railways": [
       {
@@ -2237,7 +2242,7 @@
   {
     "name": {
       "ja": "新京成電鉄",
-      "en": "Shinkeisei Electric Railway Co., Ltd."
+      "en": "Shin-Keisei Electric Railway Co.,Ltd."
     },
     "railways": [
       {
@@ -2301,7 +2306,8 @@
   },
   {
     "name": {
-      "ja": "神戸すまいまちづくり公社"
+      "ja": "神戸すまいまちづくり公社",
+      "en": "Kobe Housing & Urban Development Corporation"
     },
     "railways": [
       {
@@ -2935,7 +2941,7 @@
       },
       {
         "ja": "多摩川線",
-        "en": "Tamagawa Line",
+        "en": "Seibu Tamagawa Line",
         "prefectures": [
           "東京都"
         ]
@@ -3336,24 +3342,28 @@
     "railways": [
       {
         "ja": "蛍茶屋支線",
+        "en": "Nagasaki Electric Tramway",
         "prefectures": [
           "長崎県"
         ]
       },
       {
         "ja": "桜町支線",
+        "en": "Nagasaki Electric Tramway",
         "prefectures": [
           "長崎県"
         ]
       },
       {
         "ja": "赤迫支線",
+        "en": "Nagasaki Electric Tramway",
         "prefectures": [
           "長崎県"
         ]
       },
       {
         "ja": "大浦支線",
+        "en": "Nagasaki Electric Tramway",
         "prefectures": [
           "長崎県"
         ]
@@ -3588,7 +3598,7 @@
       },
       {
         "ja": "東海道新幹線",
-        "en": "Tōkaidō Shinkansen",
+        "en": "Tokaido Shinkansen",
         "prefectures": [
           "東京都",
           "神奈川県",
@@ -3652,7 +3662,7 @@
   {
     "name": {
       "ja": "東京急行電鉄",
-      "en": "TOKYU RAILWAYS"
+      "en": "TOKYU RAILWAYS Co., Ltd."
     },
     "railways": [
       {
@@ -3678,6 +3688,7 @@
       },
       {
         "ja": "池上線",
+        "en": "Tōkyū Ikegami Line",
         "prefectures": [
           "東京都"
         ]
@@ -4631,18 +4642,21 @@
     "railways": [
       {
         "ja": "大森線",
+        "en": "Hakodate Transportation Bureau",
         "prefectures": [
           "北海道"
         ]
       },
       {
         "ja": "湯の川線",
+        "en": "Hakodate Transportation Bureau",
         "prefectures": [
           "北海道"
         ]
       },
       {
         "ja": "宝来・谷地頭線",
+        "en": "Hakodate Transportation Bureau",
         "prefectures": [
           "北海道"
         ]
@@ -4926,6 +4940,7 @@
       },
       {
         "ja": "東田本線",
+        "en": "Toyohashi Railroad Azumada Main Line",
         "prefectures": [
           "愛知県"
         ]
